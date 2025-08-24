@@ -26,7 +26,7 @@ function Navbar() {
   useOnClickOutside(ref, () => setOpen(false))
 
   useEffect(() => {
-    ;(async () => {
+    (async () => {
       setLoading(true)
            var res = null;
       try {
