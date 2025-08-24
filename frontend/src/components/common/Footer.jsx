@@ -43,7 +43,7 @@ export const Footer = () => {
               <h4>Contact us</h4>
               <ul>
                 <li>
-                  <a href="mailto:horrorj18@gmail.com?body=fell free to type">
+                  <a href="mailto:saurabhprince2000@gmail.com?body=fell free to type">
                     Gmail
                   </a>
                 </li>
@@ -71,7 +71,7 @@ export const Footer = () => {
           </div>
         </div>
         <div className="p-8 flex flex-col sm:flex-row justify-center items-center gap-4 ">
-        <p className="text-white text-2xl my-2  ">© 2023</p>
+        <p className="text-white text-2xl my-2  ">© 2025</p>
         <div className=" ">
         <img  src={Logo} alt=""/>
         </div>
